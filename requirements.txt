@@ -1,0 +1,7 @@
+kivy
+kivymd
+ytmusicapi
+requests
+ffpyplayer
+pillow
+yt-dlp

@@ -1,0 +1,49 @@
+{
+  "charts_type": "<class 'dict'>",
+  "charts_raw": "{'countries': {'selected': {'text': 'United States'}, 'options': ['IN', 'ZZ', 'AR', 'AU', 'AT', 'BE', 'BO', 'BR', 'CA', 'CL', 'CO', 'CR', 'CZ', 'DK', 'DO', 'EC', 'EG', 'SV', 'EE', 'FI', 'FR', 'DE', 'G",
+  "search_type": "<class 'list'>",
+  "search_sample": {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Vaaroon Trending Version",
+    "album": {
+      "name": "Vaaroon Trending Version",
+      "id": "MPREb_LF4Emez6pOZ"
+    },
+    "inLibrary": false,
+    "pinnedToListenAgain": false,
+    "videoId": "-qcYKjRxwwM",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:32",
+    "year": null,
+    "artists": [
+      {
+        "name": "Anand Bhaskar",
+        "id": "UC6cwTCAALkC3OdiKiEiDGFg"
+      },
+      {
+        "name": "Romy",
+        "id": "UCv_FWRVvUTv631U0-133caA"
+      },
+      {
+        "name": "Ginny Diwan",
+        "id": "UCyfGGZpXPVyrPc4E4RwjUDw"
+      }
+    ],
+    "duration_seconds": 152,
+    "views": "60M",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/Ambvp0itlEkdVv4m4r3YtyUbCEbe7qyvAMCQBpIs7GxRhP1esmDNbjchfBxacpuJeRuMEnsUl5_TwLej=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/Ambvp0itlEkdVv4m4r3YtyUbCEbe7qyvAMCQBpIs7GxRhP1esmDNbjchfBxacpuJeRuMEnsUl5_TwLej=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  }
+}
